@@ -1,5 +1,3 @@
-
-
-<h3 align="center">Bridging the worlds of code and no-code <a href="https://builder.io" target="_blank">@Builder.io</a></h3>
-
-![](https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F003add813b3149e9b56c17c2843cebde?format=webp&width=2000)
+<a href="https://www.builder.io/m/developers">
+  <img width="1026" alt="Builder.io: Visually Build with Your Tech Stack" src="https://user-images.githubusercontent.com/844291/171677819-4126216f-5f4a-47c6-afed-59ad3133b3a3.png">
+</a>
